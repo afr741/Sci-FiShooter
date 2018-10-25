@@ -1,0 +1,25 @@
+v2.0.2.0
+- Updated for Unity 2017
+- Added: A button to take you to the Asset Store page for the required Legacy Image Effects package which are no longer included in Unity since 5.5
+
+v2.0.1.2
+- Fixed: Updated some property references for Unity 5.5
+
+v2.0.1.1
+- Added: Editor GUI icon images moved to special Unity folder, "Editor Default Resources". Our icons in this folder will automatically no longer be included in your builds.
+
+v2.0.1.0
+- Added 3 new Themes.
+- Reorganized package so About and Docs folders can be easily deleted to reduce bloat.
+- Update Welcome page content.
+
+v2.0.0.0
+- Added a window to easily add or swap themes to a camera within the scene.
+- Added 10 new themes.
+- Added a help/about window.
+
+v1.1.0.0
+- Added nine new themes.
+
+v1.0.1.0
+- Added Documentation and Readme.
