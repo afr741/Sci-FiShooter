@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/iccom/Desktop/Sci-fi/scifiTech.exe
+C:/Users/iccom/Desktop/scifiTech.exe
 SceneListBegin?
 Assets/Game.unity
 SceneListEnd?
